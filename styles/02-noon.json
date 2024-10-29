@@ -420,6 +420,11 @@
 							}
 						}
 					},
+					"heading": {
+						"color": {
+							"text": "currentColor"
+						}
+					},
 					"link": {
 						"color": {
 							"text": "currentColor"
