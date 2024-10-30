@@ -102,6 +102,11 @@
 						}
 					}
 				}
+			},
+			"core/quote": {
+				"color": {
+					"text": "currentColor"
+				}
 			}
 		}
 	}

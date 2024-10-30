@@ -428,7 +428,7 @@
 				"border": {
 					"style": "solid",
 					"width": "0 0 0 2px",
-					"color": "var:preset|color|contrast"
+					"color": "currentColor"
 				},
 				"spacing": {
 					"blockGap": "var:preset|spacing|30",

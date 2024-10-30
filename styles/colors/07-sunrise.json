@@ -108,9 +108,6 @@
 				"color": {
 					"text": "var:preset|color|accent-2"
 				},
-				"border": {
-					"color": "var:preset|color|accent-2"
-				},
 				"elements": {
 					"cite": {
 						"color": {
