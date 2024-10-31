@@ -106,25 +106,11 @@
 			"core/pullquote": {
 				"color": {
 					"text": "currentColor"
-				},
-				"elements": {
-					"link": {
-						"color": {
-							"text": "currentColor"
-						}
-					}
 				}
 			},
 			"core/quote": {
 				"color": {
 					"text": "currentColor"
-				},
-				"elements": {
-					"link": {
-						"color": {
-							"text": "currentColor"
-						}
-					}
 				}
 			}
 		}
