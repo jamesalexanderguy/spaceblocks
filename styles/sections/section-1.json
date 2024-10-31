@@ -43,6 +43,18 @@
 					}
 				}
 			},
+			"core/post-date": {
+				"color":{
+					"text": "color-mix(in srgb, currentColor 85%, transparent)"
+				},
+				"elements": {
+					"link": {
+						"color" : {
+							"text": "color-mix(in srgb, currentColor 85%, transparent)"
+						}
+					}
+				}
+			},
 			"core/post-terms": {
 				"color": {
 					"text": "currentColor"
