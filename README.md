@@ -1,5 +1,6 @@
 
-Archived repository
+# Archived repository
+
 This theme has been merged into the WordPress Core SVN repository, and is no longer maintained on GitHub.
 
 Tickets to report bugs or make feature requests can be opened against the Bundled Themes component on trac.
