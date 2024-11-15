@@ -1,3 +1,13 @@
+
+Archived repository
+This theme has been merged into the WordPress Core SVN repository, and is no longer maintained on GitHub.
+
+Tickets to report bugs or make feature requests can be opened against the Bundled Themes component on trac.
+
+Browse open issues: https://core.trac.wordpress.org/search?q=twenty+twenty-five.
+
+---
+
 # Twenty Twenty-Five
 
 Welcome to the development repository for the default theme that will launch with [WordPress 6.7](https://make.wordpress.org/core/6-7/).
