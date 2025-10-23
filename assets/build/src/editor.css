@@ -1,0 +1,19 @@
+/* editor specific styles go here */
+
+.block-editor-rich-text__editable {
+    border: 2px solid red!important;
+}
+
+p {
+    color: blue!important;
+}
+
+body {
+    background: hotpink !important;
+}
+
+
+.edit-post-visual-editor .block-editor-block-list__layout .block-editor-rich-text__editable {
+    border: 3px solid hotpink !important;
+    background-color: rgba(255, 0, 255, 0.1) !important;
+}

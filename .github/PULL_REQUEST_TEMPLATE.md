@@ -1,5 +1,5 @@
 <!-- Thanks for contributing to Twenty Twenty-Five! Please follow the Contributing Guidelines:
-https://github.com/WordPress/twentytwentyfive/blob/trunk/README.md#contributing -->
+https://github.com/WordPress/spaceblocks/blob/trunk/README.md#contributing -->
 
 **Description**
 

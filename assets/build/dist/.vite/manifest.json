@@ -1,0 +1,25 @@
+{
+  "_main-!~{003}~.js": {
+    "file": "assets/main-LY8FFXZf.css",
+    "src": "_main-!~{003}~.js"
+  },
+  "src/editor.js": {
+    "file": "assets/editor-DeCZq8K7.js",
+    "name": "editor",
+    "src": "src/editor.js",
+    "isEntry": true,
+    "css": [
+      "assets/editor-FbePUhRP.css",
+      "assets/main-LY8FFXZf.css"
+    ]
+  },
+  "src/main.js": {
+    "file": "assets/main-_wbGaQfM.js",
+    "name": "main",
+    "src": "src/main.js",
+    "isEntry": true,
+    "css": [
+      "assets/main-LY8FFXZf.css"
+    ]
+  }
+}

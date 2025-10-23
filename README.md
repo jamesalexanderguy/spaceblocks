@@ -30,9 +30,9 @@ If you'd like to see the latest and greatest version of Twenty Twenty-Five, [the
 Connect your GitHub account to your WordPress.org account to receive props for your contributions.
 Please see the tutorials on [Linking your GitHub and w.org profiles](https://make.wordpress.org/core/handbook/tutorials/linking-your-github-and-w-org-profiles/).
 
-If you would like to contribute code, the list of [open issues](https://github.com/WordPress/twentytwentyfive/issues) is a great place to start looking for tasks. [Pull requests](https://github.com/WordPress/twentytwentyfive/pulls) are preferred when linked to an existing issue.
+If you would like to contribute code, the list of [open issues](https://github.com/WordPress/spaceblocks/issues) is a great place to start looking for tasks. [Pull requests](https://github.com/WordPress/spaceblocks/pulls) are preferred when linked to an existing issue.
 
-Contributing is not just for developers! There are many opportunities to help with [testing](#getting-started), triage, discussion, design, building patterns and templates, and more. Please look through [open issues](https://github.com/WordPress/twentytwentyfive/issues), and join in wherever you feel most comfortable.
+Contributing is not just for developers! There are many opportunities to help with [testing](#getting-started), triage, discussion, design, building patterns and templates, and more. Please look through [open issues](https://github.com/WordPress/spaceblocks/issues), and join in wherever you feel most comfortable.
 
 If you'd like to help with triage, open a new issue and one of the maintainers will help you get set up with the ability to add labels to issues and PRs.
 
@@ -95,7 +95,7 @@ Make sure to add alt text to your images and to make sure to remove the IDs from
 
 ```
 <!-- wp:image {"id":125,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wp-stable.test/wp-content/themes/twentytwentyfive/assets/images/project.webp" alt="" class="wp-image-125"/></figure>
+<figure class="wp-block-image size-large"><img src="http://wp-stable.test/wp-content/themes/spaceblocks/assets/images/project.webp" alt="" class="wp-image-125"/></figure>
 <!-- /wp:image -->
 ```
 
@@ -103,7 +103,7 @@ would turn into
 
 ```
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/project.webp" alt="<?php echo esc_attr_x( 'Picture of a building', 'Alt text for project picture', 'twentytwentyfive' ); ?>"/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/project.webp" alt="<?php echo esc_attr_x( 'Picture of a building', 'Alt text for project picture', 'spaceblocks' ); ?>"/></figure>
 <!-- /wp:image -->
 ```
 
@@ -158,7 +158,7 @@ turns into
 
 and
 
-`<!-- wp:template-part {"slug":"header-portfolio","theme":"twentytwentyfive","area":"header","tagName":"header"} /-->`
+`<!-- wp:template-part {"slug":"header-portfolio","theme":"spaceblocks","area":"header","tagName":"header"} /-->`
 
 turns into
 
